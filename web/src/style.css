@@ -42,7 +42,7 @@ html, body {
   height: 100%;
   padding: 0;
   margin: 0;
-  background-color: var(--main-bg-color);
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
   scrollbar-color: #8e9099 transparent;
   
   overflow-x: hidden;
